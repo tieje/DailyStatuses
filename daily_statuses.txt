@@ -1,0 +1,246 @@
+TIL
+
+5/19/2020
+
+TIL that although the Nordic model for social welfare is widely successful, because its citizens generally have great creditworthiness, real estate and rent have high price to income ratios, among the top 20 of countries in the world.
+
+Bent Sofus Tranøy, Mary Ann Stamsø & Ingrid Hjertaker (2018)
+Equality as a driver of inequality? Universalistic welfare, generalised creditworthiness and financialised housing markets
+https://1drv.ms/b/s!Audo5lI2bixcoYJ45h_Cq7hIkgux8g
+
+TL;DR: There exists a paradox where equality promotes inequality.
+
+
+5/20/2020
+
+TIL that although meritocracy is meant to curb the effects of inequality, highly meritocratic systems and societies (like Singapore and Hong Kong) increase income inequality over time because each generation of people reproduces the cultural values that allowed them to succeed, namely an emphasis on education. The market responds by creating academically selective institutions, which cement the social class divide. Therefore, to curb the effects of inequality once again, the next solution is to increase access to similar high-quality education and merit-opportunities.
+
+Saravanan Gopinathan & Michael H. Lee (2018) Excellence and
+equity in high-performing education systems: policy lessons from Singapore and Hong
+Kong / Excelencia y equidad en sistemas educativos de alto rendimiento: lecciones de las
+políticas educativas en Singapur y Hong Kong, Infancia y Aprendizaje, 41:2, 203-247, DOI:
+10.1080/02103702.2018.1434043
+
+My Speculation:
+
+Americans have been through this already and we now have better access to education. However our income inequality has only increased.
+Wealth redistribution through a good welfare system would be the next logical solution. This would increase our standard of living and subsequently produce happy, healthy families and an egalitarian society. Such is the result of the Nordic model.
+The problem, however, lies with the end of solutions.
+From the last article (Tranoy et al, 2018), decent economic welfare systems result in a society where everyone's creditworthiness is naturally high, which causes the price-to-income ratio of rent and housing to increase. This disproportionately, fiscally hurts young adults almost regardless of merit.
+
+Even if a state creates a great economic welfare system, the resultant standard of living becomes so expensive, that the market eventually incentivizes young adults in developed nations to leave their country or state in search for opportunities in developing nations or states. Buy low, sell high. The higher the merit and income young adults must need to live in their current society or state, the more likely that young people will find it more economically viable to leave than to stay.
+
+With the rise of the internet, rather than leave their physical location, it seems that many young adults have responded to the high merit and high income needs of developed societies by largely living with their parents and moving their lives to the virtual world. For many young adults it is far less expensive, far less difficult, and far safer to enter the virtual world for social and economic opportunities than to move to a developing country or state for similar opportunities at cheaper prices.
+
+Revised:
+
+TIL that highly meritocratic systems (like Singapore and Hong Kong) increase income inequality over time because each generation of people reproduces the cultural values that allowed them to succeed, namely an emphasis on education. The market responds by creating academically selective institutions, which cement social class divide. Therefore, to curb the effects of inequality once again, the next solution is to increase access to similar high-quality education and merit-opportunities.
+
+Saravanan Gopinathan & Michael H. Lee (2018) Excellence and
+equity in high-performing education systems: policy lessons from Singapore and Hong
+Kong
+
+TL;DR: Standardized tests suck.
+
+Americans have been through this already and we now have better access to education. However, income inequality has only increased.
+
+
+
+We do not further develop what is already developed to its intended maximum. It's like a bell curve where people leave the worst places to live out of fear as well as leave the best places to live out of expenses.
+
+Draft 2:
+
+TIL that highly meritocratic systems (like Singapore and Hong Kong) increase income inequality over time because each generation of people reproduces the cultural values that allowed them to succeed, namely an emphasis on education. The market responds by creating academically selective institutions, which cement social class divide. Therefore, to curb the effects of inequality once again, the next solution is to increase access to similar high-quality education and merit-opportunities.
+
+Saravanan Gopinathan & Michael H. Lee (2018) Excellence and
+equity in high-performing education systems: policy lessons from Singapore and Hong
+Kong
+https://1drv.ms/b/s!Audo5lI2bixcoYJ2e0m7iJ2tfV-Vtw
+TL;DR: Meritocracy tends to become a rigged game over time.
+
+Americans have been through this already and we now have better access to education. However, income inequality has only increased.
+
+
+5/21/2020
+
+TIL that Project-Based Learning (PBL) is better for long-term knowledge retention. Traditional learning in the form of test-taking is better for short-term knowledge retention.
+
+When is PBL More Effective? A Meta-synthesis of Meta-analyses Comparing PBL to Conventional Classrooms
+Johannes Strobel, Angela van Barneveld
+https://1drv.ms/b/s!Audo5lI2bixcoPcLg6JlHOwaLrwFxA
+
+If this is the case why shouldn't we exclusively use Project-Based Learning for our education system?
+
+Clarification: Projects don't necessarily mean working in groups.
+
+Include graphic of correlation matrix.
+
+5/22/2020
+
+TIL that cash transfers to the poor in developing nations are consistently not used for temptation goods such as alcohol and tobacco, regardless of the conditions attached to the cash.
+David K. Evans, Anna Popova, The World Bank
+Cash Transfers and Temptation Goods (2014)
+https://1drv.ms/b/s!Audo5lI2bixcoYYWQtPr3ehR7HOEUg
+Discovered from the following article:
+http://www.ox.ac.uk/news/science-blog/evidence-behind-putting-money-directly-pockets-poor
+
+Unfortunately, this paper only studies "developing" countries and not "developed" countries.
+
+5/23/2020
+
+ "Our finding that teachers grade on a curve points to potentially negative effects of highly able classrooms. Equally able students get lower grades in academically selective classes than in mixed ability classes. This might cause a lower academic self-concept and thus reinforce a Big-Fish-Little-Pond-Effect (Marsh et al., 2007). There are various options for reducing the grading-on-a-curve phenomenon such as the use of standardized achievement tests. Teachers could also be encouraged to use temporal comparisons that focus on individual student progress rather than social comparisons when assigning grades (or when giving achievement-related feedback in general). There is evidence that a temporal comparison orientation is related to a more positive development of academic self-concept (L€udtke, K€oller, Marsh, & Trautwein, 2005)."
+
+An excerpt from:
+
+Katharina Vogl, Isabelle Schmidt & Franzis Preckel (2018) The role of academic ability indicators in big-fish-little-pond effect research: A comparison study, The Journal of Educational Research
+https://1drv.ms/b/s!Audo5lI2bixcoPc7L1RdG7XCH1DVMQ
+
+TL;DR: Academic self-esteem in academically selective classes is reduced when everyone around you is as smart as you. Temporal comparison (comparing your current self to your past self) is healthier than social comparison (comparing yourself to others).
+
+5/24/2020
+
+TIL that the general approval of public education has been declining since 1973.
+69% ± 0.5% of Americans have only "Some" or "Very Little" approval of our public education system.
+Gallup Poll: General Approval of Public Education since 1973
+https://news.gallup.com/poll/1597/confidence-institutions.aspx
+
+Attach images of graphs
+
+5/25/2020
+
+"In response to the problems of social isolation and loneliness, the UK government has recently published its first ‘loneliness strategy’ (Prime Minister's Office, 2018)." Focusing on an aging, rural community in Northeast England, with high levels of reported loneliness, these researchers co-organized a socially inclusive lunch club program with the local county called "Come Eat Together" (CET). Although the results are only qualitative (recordings of interviews), the program was deemed successful.
+
+Josephine M. Wildman | Nicole Valtorta | Suzanne Moffatt | Barbara Hanratty
+‘What works here doesn’t work there’: The significance of local context for a sustainable and replicable asset‐based community intervention aimed at promoting social interaction in later life (2018)
+https://1drv.ms/b/s!Audo5lI2bixcoPcq3s0DLsozYDve1g
+
+TL;DR: Old UK people were lonely, so they eat together now.
+
+CET is an example of an asset‐based community approach to mitigate isolation among old people in the UK. How does this apply to us? There is a loneliness epidemic affecting many adults in America, especially young people. What form would an asset-based community approach look like in our local communities that would appeal to young people? A local gaming convention? A relaxed-competitive hackathon? Repurposing night-time library hours to be low-cost social centers?
+
+5/26/2020
+
+TIL that the academic engagement of peers nominated as high in sociometric (actual) and perceived popularity were predictive over time of their nominator's own academic engagement in both the U.S. and China. "[Social] status in the peer system is a fundamental contributor to youth's academic engagement."
+
+Xin Zhang and Eva M. Pomerantz, Lili Qin, Handrea Logis, Allison M. Ryan
+Early Adolescent Social Status and Academic Engagement: Selection and Influence Processes in the United States and China (2018)
+https://1drv.ms/b/s!Audo5lI2bixcoPtf7AMkIC0KD64JcA
+
+TL;DR: Popular students define what's cool to their subscribers. Who knew?
+
+One way we could practically use this is to somehow convince the popular student of each social group to be academically engaged. One of the ethical implications, however, is that this may come at the risk of alienating these popular students from the very group that nominated them.
+
+5/27/2020
+
+"In nonrecessionary periods, all else being equal, an increase in market share increases the positive effect of R&D spending on profit. Integrating this result with the positive three-way interaction effect of R&D, market share, and recession... ...indicates that recession strengthens the benefits of R&D spending conferred by market share."
+
+Raji Srinivasan, Gary L. Lilien, & Shrihari Sridhar
+Should Firms Spend More on Research and Development and Advertising During Recessions? (2011)
+https://1drv.ms/b/s!Audo5lI2bixcoYZNdDMSatIYy4Z04A
+
+ELI5: It's common for companies that have a large market share, to lose their market share to competitors with smaller market shares during a recession. This supposedly occurs to 20% of companies after a recession where 20% of companies are worse off and 20% are better off. This paper uses economic theory and publicly available data of the last seven recessions to show that in order for companies with large market shares to maintain their market share after a recession, it's crucial to not cut research and development (R&D). Some companies may make decisions to cut R&D and marketing to maintain profits and subsequently stock prices during the recession. This ends up hurting businesses in the long run because limiting R&D disrupts the delicate process of innovation, while limiting marketing may mean allowing competitors to introduce their products to a public open to change.
+
+This is my first time delving into economics. To be honest, the equation that they created in this paper to model company gains is more like if-then statements closer to coding than to math. Though, I do enjoy the following quote at the beginning of this paper:
+
+"There are only two things in a business that make money — innovation and marketing; everything else is cost."
+—Peter Drucker (1954)
+
+5/28/2020
+
+"Problem-based learning (PBL) was implemented in two medical schools in Saudi Arabia. ... 35% of participants were either undecided or would not recommend medical schools to adopt PBL curriculum. The majority of students supported the concept of PBL and thought it was a beneficial learning strategy."
+"This PBL approach used small group discussions of a problem under the supervision of a tutor."
+"The effectiveness of the PBL approach is significantly determined by its implementation, not the concept."
+"This study showed that female students seem to be more cooperative in small groups and open to the feedback of their colleagues during the feedback session. This is probably due to the fact that the communication and interpersonal skills of girls are probably more developed (Aspegren 1999), which are utilized in the effectiveness of the process of the PBL discussions."
+
+ALI IBRAHIM ALHAQWI, TARIQ AWAD MOHAMED, ABDULAZIZ F. AL KABBA, SULTAN S. ALOTAIBI, ALI M. AL SHEHRI, HAMZA M. ABDULGHANI & MOTASIM BADRI
+Problem-based learning in undergraduate medical education in Saudi Arabia: Time has come to reflect on the experience (2015)
+https://1drv.ms/b/s!Audo5lI2bixcoPltXyeEHI0gpKXarA
+
+I can see where a one-third of students did not agree with PBL. Some students prefer studying on their own and not interacting with people. Some students may be uncomfortable with a new learning style. Female students were more cooperative probably due to more developed communication and interpersonal skills than men.
+
+This makes me think about how men designed our education system. How different would it be if women designed it instead?
+
+5/29/2020
+
+- Introduction of comprehensive school was related to successively increase performance levels in both literacy and numeracy.
+- There seems to be agreement that the answer is not to be found in a single factor, but that several factors have been combined to create an educational system of high quality. However, the comprehensive school, which was successively introduced during the 1970s and 1980s, is generally referred to as the main source of such factors: an emphasis on equality of student achievement supported by small school differences that provide students with equal opportunities to learn; instruction that is adapted to the needs of the individual child; highly qualified teachers with a master degree; curricular flexibility and pedagogical freedom; and no national tests or examinations.
+- In both Finland and Sweden implementation of comprehensive schooling not only involved abolishment of tracking, but also a large number of other changes, such as increased resources, increased quantity of schooling, and improved teacher education, just to mention a few examples.
+- The improved Finnish literacy achievement primarily was due to a part-time special education system that was successively developed in conjunction with the implementation of the comprehensive school. This system was mainly focused on reading- and writing-skills during the first years of schooling using a preventive pedagogical approach, and after being fully implemented around 1990 it involved around 20% of the Finnish students in grades 1 to 3 (Kivirauma & Ruoho, 2007). It has been argued that this unique form of special education accounts both for the high level of achievement in PISA [Finnish version of ILSA - International Large-Scale Assessment] literacy and for the low variance in scores (Kivirauma & Ruoho, 2007). ... ... While this result does not prove causality it certainly makes it worthwhile to conduct further research on the hypothesis.
+
+
+
+
+Draft 2
+
+"The improved Finnish literacy achievement primarily was due to a part-time special education system that was successively developed in conjunction with the implementation of the comprehensive school. This system was mainly focused on reading- and writing-skills during the first years of schooling using a preventive pedagogical approach, and after being fully implemented around 1990 it involved around 20% of the Finnish students in grades 1 to 3 (Kivirauma & Ruoho, 2007). It has been argued that this unique form of special education accounts both for the high level of achievement in PISA [Finnish version of ILSA - International Large-Scale Assessment] literacy and for the low variance in scores (Kivirauma & Ruoho, 2007). ... ... While this result does not prove causality it certainly makes it worthwhile to conduct further research on the hypothesis."
+
+Jan-Eric Gustafssona, and Sigrid Blömeke Development of School Achievement in the Nordic Countries During Half a Century (2017)
+https://1drv.ms/b/s!Audo5lI2bixcoYZFDaCqJt4xfDZPew
+
+ELI5: For some reason, the inclusiveness of special education and preventive pedagogical approach may have been had significant factor in Finland having arguably the best education system in the world. Preventive Pedagogy's main tenants lie in teaching through lifestyle and health at a young age. Health includes mental, physical, and a habit of being proactive.
+
+5/30/2020
+
+The overall high performance of Finnish students combine with comparatively high quality. Low standard deviations.
+Among Finnish students, only gender is associate with statistically significant differences in some of the skills measured.
+PISA results indicate high degree of equality and equity in the learning outcomes in Finland.
+Finnish girls perform better than boys, but the boys exceed the OECD average.
+
+Based on various international statistics, it can be concluded that Finland
+has the world record in terms of the quantity of special education given to
+basic education students (OECD 2000; Armstrong 1999; Vislie 2003). Concretely,
+this means that more students studying in the basic education will be
+classified as special needs students in Finland than in any other country in
+the world (Vislie 2003: 24, 31).
+
+The new system also
+provided some fresh pedagogical and didactical approaches and solutions
+in order to succeed in teaching the entire age group in the same settings.
+The most important pedagogical tool discussed in this connection was
+called pedagogical ‘‘inner differentiation’’, which meant a change from the
+selective division of students into two different schools towards an inner
+differentiation of teaching in a school meant for all. In this transition
+phase, part-time special education was assigned the demanding pedagogical
+task of keeping all students in the basic education system (see Committee
+deliberation 1970: 147).
+
+Draft 2
+
+TIL that of all things, what really sets apart the best education system in the world (Finland) from other developed countries is an emphasis on part-time special education given to basic education students. "Concretely, this means that more students studying in the basic education will be classified as special needs students in Finland than in any other country in the world (Vislie 2003: 24, 31)."
+
+JOEL KIVIRAUMA and KARI RUOHO
+EXCELLENCE THROUGH SPECIAL EDUCATION? LESSONS FROM THE FINNISH SCHOOL REFORM (2007)
+https://1drv.ms/b/s!Audo5lI2bixcoYcDVo94IxMcZHmAqg
+
+I found it mind-blowing that what can really help children is early part-time special education. Part-time only means that the child is temporarily in special education.
+
+5/31/2020
+
+The purpose of preventive pedagogy was to prevent the possibility of pedagogical deviation and find means to address them. The main objective is now to prevent social deviance among adolescents and young adults. There three "methods" used in preventive pedagogy to prepare students for a healthy lifestyle: cognitive, fitness, and preventive (proactive approach and habit formation, a "Valuable Attitude"). It proclaims that a healthy lifestyle is the most important indicator of national wealth. A healthy lifestyle includes our body, mind, and our creative endeavors.
+
+Ludmila Yu. Grudtsina, Anna V. Filippova, Elena V. Makarova, Diana L.Kondratyuk, Vladimir E. Usanov and Sergey V. Molchanov
+Preventive Pedagogy: Methods of Research University Students’ Readiness Formation for a Healthy Lifestyle (2017)
+https://1drv.ms/b/s!Audo5lI2bixcoYcEGoWFedQQO4O2ig
+
+I think school should be student-centered such that it teaches you the best way to live. Our education-system is too conservative: the original intention of school was to produce factory workers and job-seekers. It has largely remained in this swamp of standardized tests and traditional teaching methods for more than 50 years. We live in an age where we need innovators and a proactive attitude.
+
+6/1/2020
+
+East Asian countries are moving in the 'Nordic' direction for recent reforms on universal coverage of pensions and healthcare; narrowing of social divisions; increased public responsibility for welfare. Japan is closest to social expenditure to European countries. The East Asian welfare model usually refers to two groups of states: Japan, South Korea, and Taiwan on the one hand and China, Hong Kong, and Singapore on the other. "The first group shares the characteristics of having developed more redistributive social insurance institutions and more universal pension systems, while the second group has relied more on the individual’s capacity to mitigate social risk (Peng and Wong 2010), that is, social protection has been made to rely more on private savings, which are less redistributive."
+
+Stein Kuhnle (2011) Towards a Nordic–East Asian welfare dialogue?, Journal
+of Asian Public Policy, 4:3, 254-262, DOI: 10.1080/17516234.2011.630216
+https://1drv.ms/b/s!Audo5lI2bixcoYY49lVRIimsvGdlyA?e=e7rViS
+
+It appears that democratic East Asian countries have been increasing centralized welfare making it more equitable, while more authoritarian East Asian countries created a more decentralized welfare system, making it less equitable.
+
+Questions for study abroad:
+- what is the cut-off point for part-time special education students in Finland?
+- how do low-income schools compare to high-income schools in Finland?
+
+
+
+
+
+
+
