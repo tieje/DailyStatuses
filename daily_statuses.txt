@@ -283,7 +283,9 @@ I'm speculating that the second paragraph is true because a lot of valuable peop
 
 6/6/2020
 
+TL;DR: What goes around, comes around.
 
+This study confirms current pro-social models of reciprocity. The idea is that when participants, C and D support A, while A supports B, B rewards C and D for supporting A.
 
 David Melamed1, Brent Simpson, Jered Abernathy
 The robustness of reciprocity: Experimental evidence that each form of reciprocity is robust to the presence of other forms of reciprocity (2020)
